@@ -457,23 +457,23 @@ header > div:first-of-type {
   color: #262953;
 }
 
-.greentoe {
+.bnbapp {
   background-color: #003C4C;
   color: #E5EBED;
   position: relative;
   padding-top: 4rem;
 }
 
-.greentoe a {
+.bnbapp a {
   background-color: #003C4C;
   color: #E5EBED;
 }
 
-.greentoeMark::selection {
+.bnbappMark::selection {
   background: #E5EBED; /* WebKit/Blink Browsers */
   color: #003C4C;
 }
-.greentoeMark::-moz-selection {
+.bnbappMark::-moz-selection {
   background: #E5EBED; /* Gecko Browsers */
   color: #003C4C;
 }
@@ -1914,34 +1914,34 @@ li.layer.polygon3Place{
   fill: #D3D4DC;
 }
 
-/* Midnight.js NavBar Style greentoe*/
-.midnightHeader.greentoeMidnight {
+/* Midnight.js NavBar Style bnbapp*/
+.midnightHeader.bnbappMidnight {
   background: rgba(25, 79, 93, 0.94);
   color: black;
 }
 
-.midnightHeader.greentoeMidnight a {
+.midnightHeader.bnbappMidnight a {
   color: rgba(208, 208, 208, 1);
 }
 
-.midnightHeader.greentoeMidnight a.workNav {
+.midnightHeader.bnbappMidnight a.workNav {
   color: rgba(231, 231, 231, 1);
 }
 
-.midnightHeader.greentoeMidnight a {
+.midnightHeader.bnbappMidnight a {
   opacity: 1;
 }
 
-.midnightHeader.greentoeMidnight #LetterP1,
-.midnightHeader.greentoeMidnight #LetterI1,
-.midnightHeader.greentoeMidnight #LetterX,
-.midnightHeader.greentoeMidnight #LetterE,
-.midnightHeader.greentoeMidnight #LetterL,
-.midnightHeader.greentoeMidnight #LetterP2,
-.midnightHeader.greentoeMidnight #LetterI2,
-.midnightHeader.greentoeMidnight #LetterN,
-.midnightHeader.greentoeMidnight #LetterK,
-.midnightHeader.greentoeMidnight #BlackSquare {
+.midnightHeader.bnbappMidnight #LetterP1,
+.midnightHeader.bnbappMidnight #LetterI1,
+.midnightHeader.bnbappMidnight #LetterX,
+.midnightHeader.bnbappMidnight #LetterE,
+.midnightHeader.bnbappMidnight #LetterL,
+.midnightHeader.bnbappMidnight #LetterP2,
+.midnightHeader.bnbappMidnight #LetterI2,
+.midnightHeader.bnbappMidnight #LetterN,
+.midnightHeader.bnbappMidnight #LetterK,
+.midnightHeader.bnbappMidnight #BlackSquare {
   fill: #E5EBED;
 }
 
