@@ -994,17 +994,17 @@ footer {
   padding-bottom: .5rem;
 }
 
-.socialMedia {
+.societyCC {
   width: 100%;
 }
 
-.socialMedia a div {
+.societyCC a div {
   width: 100%;
   float: left;
   padding: 2rem;
 }
 
-.socialMedia {
+.societyCC {
   font-size: 1.5rem;
 }
 
@@ -2488,7 +2488,7 @@ li.layer.polygon3Place{
         display: none;
     }
 
-    .socialMedia a div {
+    .societyCC a div {
       padding: 1rem;
     }
 
@@ -2533,7 +2533,7 @@ li.layer.polygon3Place{
     font-size: 5rem;
   }
 
-  .socialMedia {
+  .societyCC {
     font-size: 1.25rem;
   }
 
