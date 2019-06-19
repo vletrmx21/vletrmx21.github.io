@@ -478,23 +478,23 @@ header > div:first-of-type {
   color: #003C4C;
 }
 
-.annalena {
+.alley {
   background-color: #FF2E62;
   color: #610922;
   position: relative;
   padding-top: 4rem;
 }
 
-.annalena a {
+.alley a {
   background-color: #FF2E62;
   color: #610922;
 }
 
-.annalenaMark::selection {
+.alleyMark::selection {
   background: #610922; /* WebKit/Blink Browsers */
   color: #FF2E62;
 }
-.annalenaMark::-moz-selection {
+.alleyMark::-moz-selection {
   background: #610922; /* Gecko Browsers */
   color: #FF2E62;
 }
@@ -1946,37 +1946,37 @@ li.layer.polygon3Place{
 }
 
 /* Midnight.js NavBar Style*/
-.midnightHeader.annalenaMidnight {
+.midnightHeader.alleyMidnight {
   background: rgba(255, 66, 113, 0.94);
   color: black;
 }
 
-.midnightHeader.annalenaMidnight a {
+.midnightHeader.alleyMidnight a {
   color: rgba(97, 9, 34, 1);
 }
 
-.midnightHeader.annalenaMidnight a.workNav {
+.midnightHeader.alleyMidnight a.workNav {
   color: rgba(112, 33, 56, 1);
 }
 
-.midnightHeader.annalenaMidnight a {
+.midnightHeader.alleyMidnight a {
   opacity: 1;
 }
 
-.midnightHeader.annalenaMidnight #LetterP1,
-.midnightHeader.annalenaMidnight #LetterI1,
-.midnightHeader.annalenaMidnight #LetterX,
-.midnightHeader.annalenaMidnight #LetterE,
-.midnightHeader.annalenaMidnight #LetterL,
-.midnightHeader.annalenaMidnight #LetterP2,
-.midnightHeader.annalenaMidnight #LetterI2,
-.midnightHeader.annalenaMidnight #LetterN,
-.midnightHeader.annalenaMidnight #LetterK,
-.midnightHeader.annalenaMidnight #BlackSquare {
+.midnightHeader.alleyMidnight #LetterP1,
+.midnightHeader.alleyMidnight #LetterI1,
+.midnightHeader.alleyMidnight #LetterX,
+.midnightHeader.alleyMidnight #LetterE,
+.midnightHeader.alleyMidnight #LetterL,
+.midnightHeader.alleyMidnight #LetterP2,
+.midnightHeader.alleyMidnight #LetterI2,
+.midnightHeader.alleyMidnight #LetterN,
+.midnightHeader.alleyMidnight #LetterK,
+.midnightHeader.alleyMidnight #BlackSquare {
   fill: #610922;
 }
 
-.midnightHeader.annalenaMidnight #PinkSquare {
+.midnightHeader.alleyMidnight #PinkSquare {
   fill: #cf0071;
 }
 
