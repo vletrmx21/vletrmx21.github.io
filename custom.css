@@ -925,7 +925,7 @@ header > div:first-of-type {
   padding-bottom: 0.8rem;
 }
 
-.facebook {
+.linkedin {
   color: #3664A2;
   background-color: #eff3f8;
   -o-transition:.4s;
@@ -935,17 +935,17 @@ header > div:first-of-type {
   transition:.4s;
 }
 
-.facebook:hover {
+.linkedin:hover {
   color: #fff;
   background-color: #3664A2;
 }
 
-.facebook:focus {
+.linkedin:focus {
   color: #fff;
   background-color: #3664A2;
 }
 
-.facebook:active {
+.linkedin:active {
   color: #fff;
   background-color: #3664A2;
 }
@@ -2719,7 +2719,7 @@ li.layer.polygon3Place{
 */
 
   footer > div:first-child a div {
-    width: 49.99999%;
+    width: 33.333%;
   }
 
   #imprint > div > div {
